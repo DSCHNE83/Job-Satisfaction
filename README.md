@@ -27,4 +27,4 @@ Second you get the [2024 Stack Overflow Developer Survey here](https://survey.st
 You can view the results [here]().
 
 ### Licensing, Authors, Acknowledgements, etc.
-[Stack Overflow](https://survey.stackoverflow.co/)
+Many thanks to the Stack Overflow database. You can view the license terms [there](https://survey.stackoverflow.co/)
