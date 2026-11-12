@@ -3,16 +3,16 @@
 ### File Description
 The project is based on the following structure:
 - JobSatisfaction_reduced.csv. Only the important datas from the 2024 Stack Overflow Developer Survey.
-- Analysis.ipynb. Is a python program built using jupyter notebook. It includes the code used to analyse the data.
+- Job Satisfaction_G_U.ipynb. Is a python program built using jupyter notebook. It includes the code used to analyse the data.
 - survey.pdf. Is the 2024 Questionnaire Stack Overflow Developer Survey
 
 ### Project Motivation
 For this Udacity Nanodegree project, I chose data from the 2024 Stack Overflow Developer Survey. 
-I wanted to see if asking certain questions could lead to greater job satisfaction. I used various models for analysis.
-- Is Linear Regression the best model?
-- Or is Decision Tree a better model for this data?
-- Maybe support vector regression suits better?
-- Or is a random forest tree the best model for this case?
+I wanted to see if, by using different questions from various units, I could identify differences in job satisfaction between the U.S. and Germany. One could derive improvements from this.
+- Is there a difference in job satisfaction between Germany and the U.S.?
+- How does job satisfaction vary by company size?
+- How does job satisfaction vary by age?
+- How does job satisfaction vary depending on the field you work in?
 
 ### Installation
 At first you must have Jupyter Notebook on your machine. You can install [Anaconda](https://www.anaconda.com/docs/getting-started/installation) on this site. Additionally you need following packages that are also available in Anaconda:
