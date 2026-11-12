@@ -24,7 +24,7 @@ At first you must have Jupyter Notebook on your machine. You can install [Anacon
 Second you get the [2024 Stack Overflow Developer Survey here](https://survey.stackoverflow.co/).
 
 ### Results
-You can view the results [here](https://medium.com/@dominik_schneikert/udacity-data-science-blog-post-4191c00f534b).
+You can view the results [here]((https://medium.com/@dominik_schneikert/udacity-data-science-blog-post-4191c00f534b?postPublishedType=repub)).
 
 ### Licensing, Authors, Acknowledgements, etc.
 Many thanks to the Stack Overflow database. You can view the license terms [there](https://survey.stackoverflow.co/)
